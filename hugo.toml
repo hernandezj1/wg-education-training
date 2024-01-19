@@ -1,0 +1,11 @@
+baseURL = 'https://dh-tech.github.io/wg-education-training/'
+languageCode = 'en-us'
+title = 'DHTech - Education & Training WG'
+theme = 'ananke'
+Paginate = 6
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+
+[params]
+    custom_css = ["custom.css"]
+    recent_posts_number = 6
