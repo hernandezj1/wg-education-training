@@ -69,7 +69,7 @@ When creating a digital project it is important to know what underlying software
 But this can be a very time-consuming task especially when it is not built into the workflows that we may already use in our day-to-day practices. For this very reason, we can utilize containers that exist to help you standardize and be able to distribute your environments. 
 
 ##### Lesson - Containers
-[Code refinery container Lesson](https://coderefinery.github.io/reproducible-research/environments/)
+[_Code refinery container Lesson_](https://coderefinery.github.io/reproducible-research/environments/)
 
 But it is not enough to just utilize already tested environments or possibly package our own. We need to also track our __dependencies__ as they get __increasingly__ complicated as this next picture illustrates perfectly. 
 
@@ -80,18 +80,18 @@ But it is not enough to just utilize already tested environments or possibly pac
 For example, if you are using the package _scipy_ you need to have _python_ and _pip_ on your environment already. In this case, _python_ and _pip_ are your __dependencies__. To track these dependencies we can utilize package managers which organize the environments and track the dependencies for us. 
 
 ##### Lesson - Dependencies
-<a href="https://coderefinery.github.io/reproducible-research/dependencies/">_Code Refinery dependency lesson_</a>
+[_Code Refinery dependency lesson_]("https://coderefinery.github.io/reproducible-research/dependencies/)
 
 
 ##### Additional resources
 - Common container software intro lessons and/or docs:
   - Docker
-      - <a href="https://carpentries-incubator.github.io/docker-introduction/"> Carpentries lesson</a>
-      - <a href="https://matthewfeickert.github.io/intro-to-docker/">Matthew Feickert Lesson</a>
-      - <a href="https://docs.docker.com/get-started/">Official Intro Docs</a>
+      -  [Carpentries lesson](https://carpentries-incubator.github.io/docker-introduction/)
+      -  [Matthew Feickert Lesson](https://matthewfeickert.github.io/intro-to-docker/)
+      -  [Official Intro Docs](https://docs.docker.com/get-started/)
   - Singularity (very useful for High-performance Computing work)
-      - <a href="https://carpentries-incubator.github.io/singularity-introduction/">Carpentries lesson</a>
-      - <a href="https://docs.sylabs.io/guides/3.7/user-guide/introduction.html"> Singularity Intro Docs</a>
+      -  [Carpentries lesson](https://carpentries-incubator.github.io/singularity-introduction/")
+      -  [Singularity Intro Docs](https://carpentries-incubator.github.io/singularity-introduction/)
 
 - Common dependency managers intro lessons and/or docs:
 
