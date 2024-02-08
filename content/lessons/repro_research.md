@@ -69,7 +69,7 @@ When creating a digital project it is important to know what underlying software
 But this can be a very time-consuming task especially when it is not built into the workflows that we may already use in our day-to-day practices. For this very reason, we can utilize containers that exist to help you standardize and be able to distribute your environments. 
 
 ##### Lesson - Containers
-<a href="https://coderefinery.github.io/reproducible-research/environments/">_Code refinery container Lesson_</a>
+[Code refinery container Lesson](https://coderefinery.github.io/reproducible-research/environments/)
 
 But it is not enough to just utilize already tested environments or possibly package our own. We need to also track our __dependencies__ as they get __increasingly__ complicated as this next picture illustrates perfectly. 
 
