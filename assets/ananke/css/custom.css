@@ -10,3 +10,8 @@
         width: 100% !important;
     }
 }
+
+p img {
+    display: block;
+    margin: 0 auto;
+}
