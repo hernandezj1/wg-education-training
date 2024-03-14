@@ -11,7 +11,10 @@
     }
 }
 
-p img {
-    display: block;
-    margin: 0 auto;
+p:has(> img) {
+    text-align: center;
+}
+
+p > img {
+    display: inline-block;
 }
