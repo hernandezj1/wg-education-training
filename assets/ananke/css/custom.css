@@ -11,10 +11,14 @@
     }
 }
 
+p {
+   text-align: justify; 
+}
+
 p:has(> img) {
     text-align: center;
 }
 
-p > img {
+p:has(> img) > img {
     display: inline-block;
 }
