@@ -6,4 +6,7 @@
     aside.w-30-l {
         display: none;
     }
+    article > div {
+        width: 100%;
+    }
 }
