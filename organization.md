@@ -9,6 +9,6 @@ _( Code refinery - https://coderefinery.org/lessons/core/ )_
 - Testing
 
 ### Software Specific lessons:
--Containerization ( Docker & Singularity ) - this connects to reproducible research lesson
+- Containerization ( Docker & Singularity ) - this connects to reproducible research lesson
 - Packaging in Python
 - More to be added
