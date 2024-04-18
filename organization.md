@@ -19,5 +19,6 @@ _(May source from https://ubc-library-rc.github.io/all.html )_
 - Packaging in Python
 - Containerization ( Docker & Singularity ) - this connects to reproducible research lesson
 - R lessons
+- Web development
 - LLM use and Chatgpt
 - More to be added
