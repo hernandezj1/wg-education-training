@@ -36,7 +36,6 @@ Your project organization might look something like this:
 
 ```
 impressive-project/
-├── README.md
 ├── data/
 |  ├── README.md
 |  ├── metadata.csv
@@ -44,16 +43,17 @@ impressive-project/
 |     ├── book_a.txt
 |     ├── book_b.txt
 |     └── ...
-├── data-processing/
-├── plots/
+├── code
 ├── tests/
 ├── doc/
 │   ├── index.rst
 │   └── ...
+├── .gitignore
+├── CITATION.cff
+├── CONTRIBUTING.md
+├── dependencies.md
 ├── LICENSE
-├── requirements.txt
-├── package.json
-└── package-lock.json
+├── README.md
 ```
 
 By using a clear organizational structure like this one, someone unfamiliar with your project will quickly be able to understand what your project is doing and how they might go about reproducing your work or building upon it for their own purposes.
