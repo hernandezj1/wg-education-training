@@ -5,6 +5,7 @@ _( Sourcing from Code refinery - https://coderefinery.org/lessons/core/ )_
 - version Control (Git)
 - Reproducible research
 - Project organization ( template repository)
+- web publishing (github pages, jekkyll, hugo)
 - Modular Code Development
 - Open source software and licensing principles
 - Documentation
