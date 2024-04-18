@@ -43,7 +43,7 @@ impressive-project/
 |     ├── book_a.txt
 |     ├── book_b.txt
 |     └── ...
-├── code
+├── code/
 ├── tests/
 ├── doc/
 │   ├── index.rst
