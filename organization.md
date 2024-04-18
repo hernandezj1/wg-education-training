@@ -17,6 +17,7 @@ _( Sourcing from Code refinery - https://coderefinery.org/lessons/core/ )_
 _(May source from https://ubc-library-rc.github.io/all.html )_
 - Virtual environments
 - Packaging in Python
+- APIs
 - Containerization ( Docker & Singularity ) - this connects to reproducible research lesson
 - R lessons
 - Web development (decision tree - connect to web publishing)
