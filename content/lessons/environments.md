@@ -13,7 +13,7 @@ But this can be a very time-consuming task especially when it is not built into 
 ##### Lesson - Containers
 [_Code refinery container Lesson_](https://coderefinery.github.io/reproducible-research/environments/)
 
-But it is not enough to just utilize already tested environments or possibly package our own. We need to also track our __dependencies__ as they get __increasingly__ complicated as this next picture illustrates perfectly. 
+But it is not enough to just utilize already tested environments or possibly package our own. We also need to track our __dependencies__ as they get __increasingly__ complicated as this next picture illustrates perfectly. 
 
 ![dependency image](https://coderefinery.github.io/reproducible-research/_images/python_environment.png)
 
@@ -22,7 +22,7 @@ But it is not enough to just utilize already tested environments or possibly pac
 For example, if you are using the package _scipy_ you need to have _python_ and _pip_ on your environment already. In this case, _python_ and _pip_ are your __dependencies__. To track these dependencies we can utilize package managers which organize the environments and track the dependencies for us. 
 
 ##### Lesson - Dependencies
-[_Code Refinery dependency lesson_]("https://coderefinery.github.io/reproducible-research/dependencies/)
+[_Code Refinery dependency lesson_](https://coderefinery.github.io/reproducible-research/dependencies/)
 
 
 ##### Additional resources
