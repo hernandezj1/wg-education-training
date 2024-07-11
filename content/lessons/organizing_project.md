@@ -1,4 +1,7 @@
-+++ title = 'Organizing Your Project' date = 2024-07-11T16:09:06-05:00 +++
++++
+title = 'Organizing Your Project'
+date = 2024-07-11T10:03:06-05:00
++++
 
 ### Organizing your project
 
