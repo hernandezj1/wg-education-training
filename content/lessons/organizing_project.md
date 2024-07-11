@@ -1,6 +1,6 @@
 +++
 title = 'Organizing Your Project'
-date = 2024-07-11T10:03:06-05:00
+date = 2024-07-11T10:03:06-04:00
 +++
 
 ### Organizing your project
