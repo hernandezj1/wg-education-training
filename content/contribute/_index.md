@@ -1,5 +1,5 @@
 +++
-title = 'Lessons'
+title = 'Contribute'
 featured_image = "/images/code-coffee-pic.jpeg"
 description = "Learning Materials"
 +++
