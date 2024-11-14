@@ -26,15 +26,27 @@ Git and GitHub work with a specific vocabulary to describe its functionalities a
 
 ## Clone
 
+In version control, to clone is an action used to make a copy (or clone) of an existing repository while maintaining a reference to the original (copied) repository.
+
 ## Stage
+
+In version control, to stage is an action that selects a group of changes to be recorded through a commit. This means that not all changes performed are automatically included, and therefore recorded, in a new commit.
 
 ## Commit
 
+In version control, to commit is an action used to record the current state of a repository.
+
 ## Push
+
+When working locally on a copy of a repository hosted remotely, the changes that are carried out and commited need to be sent from the local copy to the remote repository in order to be applied. This process of transfering the commits from a local to a remote repository is called push.
 
 ## Pull 
 
+When several collaborators are working together on a repository hosted remotely, it is very likely that they will work localy on copies of the repository and regularly transfer their commits to the remote repository through pushes. What happens when the remote repository goes through changes implemented by another user? You need to update your local copy to include these changes. The process of downloading the content of a remote repository and immediately updating the local repository to match the updated content is called pull.
+
 ## Fetch
+
+To fetch is an action that downloads the content of a remote repository while not integrating any new or changed content into your local copy of that repository. Fetching a remote repository gives the user an overview of the implemented changes that this repository has undergone while not directly implementing them to the local data.
 
 # FAQs
 
