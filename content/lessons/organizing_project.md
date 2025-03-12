@@ -1,6 +1,6 @@
 +++
 title = 'Organizing Your Project'
-date = 2024-07-11T10:03:06-04:00
+date = 2025-03-12T10:03:06-04:00
 +++
 
 # Organizing your project
@@ -72,7 +72,7 @@ In addition to frameworks, certain software libraries may come with conventions 
 
 Project organization presents particular challenges when it comes to version control. If you are using [version control](https://dh-tech.github.io/wg-education-training/lessons/git/)—as you hopefully are—, you want other developers to be able to see the history of the project's development. However, if you need to reorganize your project, you have to take additional care to ensure that the file's history is reflected in your project's version tree. Instead of using the GUI file explorer, your terminal's command interpreter, or your text editor's file system, you should move files through the command [```git mv```](https://git-scm.com/docs/git-mv). Additionally, changes in content should be in separate commits from changes in organization. This is a fairly advanced version control procedure that can trip up even experieced developers!
 
-##### Additional resources
+## Additional resources
 
 - Project organization:
   - [Python package structure](https://py-pkgs.org/04-package-structure)
