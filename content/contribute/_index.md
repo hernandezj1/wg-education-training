@@ -4,7 +4,7 @@ featured_image = "/images/code-coffee-pic.jpeg"
 description = "Contributing Guidelines"
 +++
 
-We are happy you want to contribute to our lessons! On this page you will find details about how you can contribute with a lesson or with suggestions of changes and corrections to our content. Another form of contribution if to become a reviewer of our content. Here you will also find the author guidelines for lesson contributions.
+We are happy you want to contribute to our lessons! On this page you will find details about how you can contribute with a lesson or with suggestions of changes and corrections to our content. Another form of contribution if to become a reviewer of our content. 
 
 You can collaborate by submitting issues on [our GitHub repository](https://github.com/dh-tech/wg-education-training). To facilitate that we have created templates (see below) for the most common types of contribution, that means you only have to fill in the fields in the issue template which is most appropriate for your contribution.
 
@@ -15,6 +15,8 @@ We welcome contributions of new lessons to the website. If you want to contribut
 To propose a new lesson you need to submit a proposed topic for your lesson, a brief justification (150 words) and a short abstract describing the lesson (150 words). You can also indicate co-contributors (co-authors) or ask us to help you find someone to help you create this new lesson. To create the issue on our GitHub repository you will also need a GitHub account.
 
 [Propose a new Lesson](https://github.com/dh-tech/wg-education-training/issues/new?template=propose-a-new-lesson.md)
+
+Here you can find the [author guidelines](./author-guidelines/) for lesson contributions.
 
 ## Suggest a Change
 
