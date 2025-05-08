@@ -36,6 +36,7 @@ Our idea is to provide a framework for people from the DH community to create (n
 
 If you want to contribute as a reviewer you can either:
 
-- register as a reviewer using our [Google form](https://forms.gle/wJXZzWhbbndYcmu89)
-- send us an email at: dhtech.community@gmail.com
+* register as a reviewer using our [Google form](https://forms.gle/wJXZzWhbbndYcmu89)
+* send us an email at: dhtech.community@gmail.com
 
+You can also check our [reviewing guidelines](./reviewer-guidelines/).
