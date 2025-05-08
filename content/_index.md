@@ -7,6 +7,9 @@ featured_image = "/images/code-coffee-pic.jpeg"
 +++
 
 
-Welcome to the website of the DHTech Education & Training Working Group! This website represents our efforts to create training materials for learning how to develop software in the digital humanities.
+Welcome to the website of the DHTech Education & Training Working Group! 
 
-If you would like to contribute, please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSeeDbu8peXL89Cf_zIA26FaJNBt43-HUqFgcKgEvOJoA0nt5A/viewform) out!!
+This website was launched after discussions at the ADHO DH 2023 conference in Graz to address the need for discipline-specific training in research software engineering for the Digital Humanities. 
+Our goal is to provide low-threshold access to information on software development topics relevant to DH work. We focus on identifying core competencies—such as reproducible software design, responsible documentation, and the use of tools like Docker, ExistDB, or Python packaging—and either point to existing high-quality resources or create new ones when needed. The project relies on community participation: submitting and reviewing lessons, using the materials, and helping shape future content by requesting specific topics.
+This is a community-driven effort to build and maintain a shared knowledge base of training materials for learning how to develop software in the digital humanities.
+
