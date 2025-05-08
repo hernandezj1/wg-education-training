@@ -4,7 +4,7 @@ featured_image = "/images/code-coffee-pic.jpeg"
 description = "Reviewing Guidelines"
 +++
 
-# Reviewer Guidelines
+# Reviewing Guidelines
 
 Thanks for joining our community of reviewers!
 
