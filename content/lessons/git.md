@@ -80,4 +80,4 @@ When you stash your changes, you basically save them locally without committing 
 - [Wikipedia entry about Git](https://en.wikipedia.org/wiki/Git)
 - [Software Carpentries Git Tutorial](https://swcarpentry.github.io/git-novice/)
 - [Code Refinery Git Tutorial](https://coderefinery.github.io/git-intro/)
-
+- [Git Workflows](https://about.gitlab.com/topics/version-control/what-is-git-workflow/)
