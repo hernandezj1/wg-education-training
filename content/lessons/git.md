@@ -57,7 +57,17 @@ To fetch is an action that downloads the content of a remote repository while no
 
 When you start working with a Git repository, especially when you work with multiple people but even if you are working alone, you might start to wonder how to most effectively work with branches. When do you create a new branch? When do you merge? How many branches should you create? Well, you're not the first to think about this! There are several widely-used workflows that provide guidance on these questions. You can find a brief description of several workflows on [this GitLab page](https://about.gitlab.com/topics/version-control/what-is-git-workflow/).
 
-Generally, it is good to remember that the more short-lived your branches are, the easier it will be to merge it back into the main branch. Some workflows even completely avoid using branches with the goal to messy merge situations. 
+Generally, it is good to remember that the more short-lived your branches are, the easier it will be to merge it back into the main branch. Some workflows even completely avoid using branches with the goal to avoid messy merge situations. 
+
+# Git Forking
+
+You might have noticed at some point that there is a button on a GitHub repository page that says "Fork". It looks something like this:
+
+<img src="../images/fork.png" width="180px">
+
+When you click on this button, GitHub will create a copy of the repository into your own account. This *fork* will have all the content that the original repository has, but you can change the files whatever you like, it will not affect the files in the original repository. You can, however, request to merge the changes you make to your fork back into the original repository. 
+
+Forking is a very powerful tool and a lot of open source software depends on it. It allows you to use the code from another repository, modify it, and even go back in the history of the code without changing anything in the original repositories. There is a Git workflow build around forking that many open source projects use to allow contributions from developers not part of the core development team.
 
 # FAQs
 
