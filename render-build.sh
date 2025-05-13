@@ -31,5 +31,4 @@ if [ "${IS_PULL_REQUEST:-}" = "true" ]; then
     $XDG_CACHE_HOME/hugo --gc -e preview -b $RENDER_EXTERNAL_URL
 else
     $XDG_CACHE_HOME/hugo --gc --minify -b https://wg-education-training.onrender.com
-
 fi
