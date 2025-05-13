@@ -7,7 +7,6 @@ hugo version # Output the OLD version
 
 HUGO_VERSION=0.142.0
 OS_VERSION="Linux-64bit"
-#OS_VERSION="darwin-universal"  # uncomment to test on mac osx
 
 if [[ ! -f $XDG_CACHE_HOME/hugo ]]; then
   echo "...Downloading HUGO"
@@ -32,5 +31,4 @@ if [ "${IS_PULL_REQUEST:-}" = "true" ]; then
     $XDG_CACHE_HOME/hugo --gc -e preview -b $RENDER_EXTERNAL_URL
 else
     $XDG_CACHE_HOME/hugo --gc --minify -b https://wg-education-training.onrender.com
-
 fi
